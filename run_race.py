@@ -1,4 +1,5 @@
 # coding=utf-8
+# -*- coding: future_fstrings -*-
 # Copyright 2018 The Google AI Language Team Authors and The HugginFace Inc. team.
 # Copyright (c) 2018, NVIDIA CORPORATION.  All rights reserved.
 #
